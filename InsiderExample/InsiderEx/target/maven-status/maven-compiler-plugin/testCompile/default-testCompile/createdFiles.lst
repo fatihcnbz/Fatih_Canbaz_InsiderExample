@@ -1,0 +1,11 @@
+utilities\TestBaseCross.class
+utilities\FakeTestData.class
+utilities\ConfigReader.class
+utilities\TestBase_BeforeClass.class
+utilities\Driver.class
+utilities\DriverCross.class
+utilities\TestBase.class
+pages\InsiderExercisePage.class
+tests\Automation_Exercises\AutomationExercise01.class
+utilities\TestBaseRapor.class
+utilities\ReusableMethods.class
